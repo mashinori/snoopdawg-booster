@@ -8,7 +8,7 @@
   <h2 align="center">snoopdawg booster</h3>
 
   <p align="center">
-    basic snoopdawg booster plugin</b>
+    basic snapchat booster program</b>
     <br />
     <br />
     <a href="https://github.com/vimashawarma/hello/issues">bug issues</a>
@@ -51,4 +51,4 @@ use it at your own risk.
 i not responsible if stuff goes sideways or you get locked out.
 this thing has zero affiliation with snapchat (no sponsorship, no support, nada).
 automating your account might break Snapchat’s TOS and get your account banned or disabled.
-this is for learning/education only. don’t be autistic.
+this is for learning/education only..
