@@ -1,7 +1,7 @@
 
 # literally packages to download:
-#import sys, platform ,os,pyautogui,keyboard, time
-#from colorama import Fore, init
+# import sys, platform ,os,pyautogui,keyboard, time
+# from colorama import Fore, init
 
 
 version = "1.0.0"
