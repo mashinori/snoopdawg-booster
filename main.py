@@ -10,10 +10,10 @@ credits = "keke"
 # custom settings or configs whatever its fucking called:
 
 loop_delay = 1     # dis is how many seconds it waits before starting a new loop
-click_delay = 0.1  # dis is how many seconds it waits before clicking the mouse between each button, for exmple it clicks send To, waits 'x' seconds, then clicks your shortcut, etc
+click_delay = 0.1  # dis is how many seconds it waits before clicking the mouse between each button, for example it clicks send to, waits 'x' seconds, then clicks your shortcut, etc
 
 
-position_delay = 0.5 # recommend do not touch this. Does not affect the speed of the bot itself.
+position_delay = 0.5 # recommend do not touch this. does not affect the speed of the bot itself.
 
 
 """
